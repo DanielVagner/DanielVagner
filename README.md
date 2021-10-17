@@ -22,6 +22,7 @@
 [<img align="left" alt="Ionic" width="60px" src="https://logodix.com/logo/1847349.jpg" />]("https://ionicframework.com/")
 
 
+
 <!--
 **DanielVagner/DanielVagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
