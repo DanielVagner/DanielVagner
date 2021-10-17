@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Findtastic mobile app.
 - 🌱 I’m currently learning NestJS
-- 👯 I’m looking to collaborate on Findtastic mobile app
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/danielvagner/
 
