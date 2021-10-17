@@ -1,4 +1,4 @@
-### Hi there, something about me 👋
+### Hi there, my name is Daniel 👋
 - 🔭 I’m currently working on mobile app Findtastic.
 - 🌱 I’m currently learning NestJS
 
