@@ -5,7 +5,7 @@
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/danielvagner/)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/daniel__vagner/)
-[<img align="left" alt="Angular" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAngular_(web_framework)&psig=AOvVaw2n5cYzXVoC8tpIvj1QGXob&ust=1634585458179000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOj14b6X0vMCFQAAAAAdAAAAABAD" />](https://www.instagram.com/daniel__vagner/)
+[<img align="left" alt="Angular" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" />](https://www.instagram.com/daniel__vagner/)
 
 <br />
 
