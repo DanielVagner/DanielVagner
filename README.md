@@ -10,6 +10,7 @@
 <br />
 
 ### Languages and Tools:
+[<img align="left" alt="SCSS" width="40px" src="https://logodix.com/logo/1847349.jpg" />]("https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png")
 [<img align="left" alt="Angular" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" />](https://angular.io/)
 [<img align="left" alt="Angular" width="40px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />](https://nestjs.com/)
 [<img align="left" alt="MongoDB" width="70px" src="https://webimages.mongodb.com/_com_assets/cms/kpo5kblefbjq79065-Horizontal_Default.svg?auto=format%252Ccompress" />]("https://www.mongodb.com/")
