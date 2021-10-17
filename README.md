@@ -5,11 +5,12 @@
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/danielvagner/)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/daniel__vagner/)
-[<img align="left" alt="Angular" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" />](https://www.instagram.com/daniel__vagner/)
+
 
 <br />
 
 ### Languages and Tools:
+[<img align="left" alt="Angular" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" />](https://www.instagram.com/daniel__vagner/)
 <!--
 **DanielVagner/DanielVagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
