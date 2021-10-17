@@ -11,7 +11,7 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Angular" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" />](https://angular.io/)
-[<img align="left" alt="Angular" width="22px" src="https://pbs.twimg.com/profile_images/1110148780991623201/vlqCsAVP_400x400.png" />](https://nestjs.com/)
+[<img align="left" alt="Angular" width="22px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />](https://nestjs.com/)
 
 
 <!--
