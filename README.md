@@ -5,6 +5,8 @@
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/danielvagner/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/daniel__vagner/)
+
+### Languages and Tools:
 <!--
 **DanielVagner/DanielVagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
