@@ -10,7 +10,10 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Angular" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" />](https://www.instagram.com/daniel__vagner/)
+[<img align="left" alt="Angular" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" />](https://angular.io/)
+[<img align="left" alt="Angular" width="22px" src="https://pbs.twimg.com/profile_images/1110148780991623201/vlqCsAVP_400x400.png" />](https://nestjs.com/)
+
+
 <!--
 **DanielVagner/DanielVagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
