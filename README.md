@@ -1,6 +1,6 @@
 ### Hi there, my name is Daniel 👋
 - 🔭 I’m currently working on mobile app Findtastic.
-- 🌱 I’m currently learning NestJS and MongoDB
+- 🌱 I’m currently learning C# and ASP.NET
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/danielvagner/)
