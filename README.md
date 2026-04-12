@@ -1,30 +1,48 @@
-### Hi there, my name is Daniel 👋
-- 🔭 I’m currently working on mobile app Findtastic.
-- 🌱 I’m currently learning C# and ASP.NET
+# Hi there, I'm Daniel Vagner 👋
 
-### Connect with me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/danielvagner/)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/daniel__vagner/)
+Frontend and mobile developer focused on building modern web and mobile applications with Angular, Ionic, Capacitor, and TypeScript.
 
+Most of my professional work has been delivered as private client solutions, internal products, or unpublished concepts, so this GitHub profile shows only a small public part of my overall experience.
 
-<br />
+🌐 [Visit my website and portfolio](https://daniel-vagner.dev)
 
-### Languages and Tools:
-[<img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]("")
-[<img align="left" alt="SCSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]("https://sass-lang.com/")
-[<img align="left" alt="TS" width="60px" src="https://www.typescriptlang.org/images/branding/logo-grouping.svg" />]("https://www.typescriptlang.org/")
-[<img align="left" alt="Angular" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" />](https://angular.io/)
-[<img align="left" alt="Angular" width="40px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />](https://nestjs.com/)
-[<img align="left" alt="MongoDB" width="70px" src="https://webimages.mongodb.com/_com_assets/cms/kpo5kblefbjq79065-Horizontal_Default.svg?auto=format%252Ccompress" />]("https://www.mongodb.com/")
-<img align="left" alt="Git" width="60px" src="https://git-scm.com/images/logo@2x.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-[<img align="left" alt="Ionic" width="40px" src="https://logodix.com/logo/1847349.jpg" />]("https://ionicframework.com/")
+## About me
 
+- 📱 I specialize mainly in frontend and mobile app development
+- ⚡ My main stack is Angular, Ionic, Capacitor, TypeScript, HTML, and SCSS
+- 🌱 I am also expanding my backend knowledge in C# and ASP.NET
+- 🧠 I enjoy building polished UI, scalable application structure, and turning ideas into real products
 
+## Selected projects
 
-<!--
-**DanielVagner/DanielVagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+During my work, I have contributed to or worked on projects such as:
 
-Here are some ideas to get you started:
--->
+- **Tolion**
+- **Xticket**
+- **TPodlahy**
+- **Findtastic**
+- **MDAS**
+- **Bosch**
+- **CCVIS**
+
+Some of these projects are not publicly available here due to client ownership, confidentiality, or copyright restrictions.
+
+## Tech stack
+
+- Angular
+- TypeScript
+- Ionic
+- Capacitor
+- HTML
+- SCSS
+- NestJS
+- C#
+- ASP.NET Web API
+- MongoDB
+- Git / GitHub
+
+## Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/danielvagner/)
+- 📸 [Instagram](https://www.instagram.com/daniel__vagner/)
+- 🌐 [Website & Portfolio](https://daniel-vagner.dev)
