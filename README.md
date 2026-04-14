@@ -44,5 +44,4 @@ Some of these projects are not publicly available here due to client ownership, 
 ## Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/danielvagner/)
-- 📸 [Instagram](https://www.instagram.com/daniel__vagner/)
 - 🌐 [Website & Portfolio](https://daniel-vagner.dev)
