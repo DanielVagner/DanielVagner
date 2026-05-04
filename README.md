@@ -2,10 +2,10 @@
 
 # Daniel Vagner 👋
 
-### Software Architect & Front-End Developer
+### Frontend & Mobile Developer
 
-I design and build modern web and mobile applications with a strong focus on  
-**clean architecture**, **maintainable frontend systems**, and **polished user experience**.
+Building modern web and mobile applications with  
+**Angular**, **Ionic**, **Capacitor**, **TypeScript**, and clean application architecture.
 
 <br />
 
@@ -23,41 +23,20 @@ I design and build modern web and mobile applications with a strong focus on
 <img src="https://img.shields.io/badge/TypeScript-Frontend-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Ionic-Mobile-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic" />
 <img src="https://img.shields.io/badge/Capacitor-Native%20Bridge-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor" />
-<img src="https://img.shields.io/badge/.NET-Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/ASP.NET-Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Web API" />
+<img src="https://img.shields.io/badge/Azure-Cosmos%20DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Cosmos DB" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## 🚀 About
 
-## 🚀 What I do
+I am a frontend and mobile developer focused on building polished, maintainable, and scalable applications.
 
-I help turn product ideas into real web and mobile applications.
+Most of my professional work is delivered through private client solutions, internal products, or unpublished concepts, so this GitHub profile represents only a smaller public part of my overall experience.
 
-My work usually sits between **frontend engineering**, **mobile development**, and **application architecture**. I enjoy building applications that are not only functional, but also easy to maintain, extend, and ship.
-
-Most of my professional work has been delivered as private client solutions, internal products, or unpublished concepts. This GitHub profile shows only a small public part of my overall experience.
-
-</td>
-<td width="40%" valign="top">
-
-## 🎯 Main focus
-
-- Frontend architecture
-- Angular application structure
-- Ionic / Capacitor mobile apps
-- Native mobile integrations
-- UI implementation
-- API integration
-- Product-oriented development
-- Technical problem solving
-
-</td>
-</tr>
-</table>
+I mainly work across **frontend architecture**, **mobile app development**, **Capacitor native integrations**, and **product-focused UI implementation**.
 
 ---
 
@@ -74,9 +53,8 @@ Most of my professional work has been delivered as private client solutions, int
 <img src="https://skillicons.dev/icons?i=angular,ts,html,css,scss,react" alt="Frontend stack" />
 
 <br />
-<br />
 
-Angular · TypeScript · HTML · SCSS · React
+Angular · TypeScript · SCSS · React
 
 </td>
 <td align="center" width="33%" valign="middle">
@@ -89,22 +67,16 @@ Angular · TypeScript · HTML · SCSS · React
 <br />
 <img src="https://img.shields.io/badge/iOS-111827?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
 
-<br />
-<br />
-
-Hybrid apps · Native bridges · Mobile UX
-
 </td>
 <td align="center" width="33%" valign="middle">
 
-### Backend & Tools
+### Backend & Cloud
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,mongodb,git,github" alt="Backend and tools stack" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,git,github" alt="Backend and cloud stack" />
 
 <br />
-<br />
 
-C# · ASP.NET Web API · NestJS · MongoDB · Git
+C# · .NET · ASP.NET Web API · Azure · Cosmos DB
 
 </td>
 </tr>
@@ -114,44 +86,36 @@ C# · ASP.NET Web API · NestJS · MongoDB · Git
 
 ---
 
-## 🧭 How I approach development
+## ⚡ Focus areas
 
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
 
-<h2>🏗️</h2>
+### 📱 Mobile apps
 
-### Structure first
-
-Readable project structure, clear responsibilities, and scalable components.
+Ionic, Capacitor, native bridges, app release preparation.
 
 </td>
 <td width="25%" align="center" valign="top">
 
-<h2>⚡</h2>
+### 🧩 Frontend architecture
 
-### Fast iteration
-
-Practical solutions that move the product forward without creating unnecessary complexity.
+Scalable structure, reusable components, maintainable code.
 
 </td>
 <td width="25%" align="center" valign="top">
 
-<h2>🎨</h2>
+### 🎨 UI implementation
 
-### UI matters
-
-Clean layouts, consistent components, and flows that feel natural to use.
+Polished layouts, clean flows, responsive interfaces.
 
 </td>
 <td width="25%" align="center" valign="top">
 
-<h2>🔌</h2>
+### 🔌 Integrations
 
-### Real integration
-
-API communication, mobile plugins, native bridges, analytics, and platform-specific behavior.
+REST APIs, native plugins, HealthKit, analytics, platform-specific behavior.
 
 </td>
 </tr>
@@ -159,7 +123,7 @@ API communication, mobile plugins, native bridges, analytics, and platform-speci
 
 ---
 
-## 📦 Selected professional work
+## 📦 Selected work
 
 <table>
 <tr>
@@ -167,18 +131,18 @@ API communication, mobile plugins, native bridges, analytics, and platform-speci
 
 ### 🧠 Tolion
 
-Mobile health and lifestyle application ecosystem focused on onboarding, activity tracking, Apple Health / Garmin integrations, analytics, and native mobile functionality.
+Mobile health and lifestyle ecosystem with onboarding, activity tracking, Apple Health / Garmin integrations, analytics, and native mobile features.
 
-**Focus:** Angular, Ionic, Capacitor, HealthKit, native iOS integrations, mobile architecture
+`Angular` · `Ionic` · `Capacitor` · `HealthKit` · `iOS`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎟️ Xticket
 
-Ticketing and event-oriented platform with mobile and web application functionality, event detail flows, media handling, and production release preparation.
+Ticketing and event platform with mobile/web flows, event detail screens, media handling, and production release preparation.
 
-**Focus:** Frontend, mobile UI, Ionic, app release support
+`Frontend` · `Ionic` · `Mobile UI` · `App release`
 
 </td>
 </tr>
@@ -187,9 +151,9 @@ Ticketing and event-oriented platform with mobile and web application functional
 
 ### 🏗️ TPodlahy
 
-Business presentation and service-oriented web solution focused on clean structure, responsive UI, and practical content presentation.
+Business presentation website focused on clean structure, responsive layout, and practical service presentation.
 
-**Focus:** Web development, responsive layout, UI implementation
+`Web` · `Responsive UI` · `SCSS`
 
 </td>
 <td width="50%" valign="top">
@@ -198,7 +162,7 @@ Business presentation and service-oriented web solution focused on clean structu
 
 Application concept focused on search, discovery, and user-oriented flows.
 
-**Focus:** Frontend architecture, UI flows, TypeScript
+`TypeScript` · `Frontend architecture` · `UI flows`
 
 </td>
 </tr>
@@ -207,18 +171,18 @@ Application concept focused on search, discovery, and user-oriented flows.
 
 ### 🏢 MDAS
 
-Internal or client-oriented solution built around business requirements and structured application logic.
+Private client-oriented solution built around structured application logic and business requirements.
 
-**Focus:** Web application development, private client solution
+`Web app` · `Client solution` · `Frontend`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏭 Bosch / CCVIS
 
-Contributions to enterprise or internal systems with focus on maintainability, structure, and production-ready frontend development.
+Enterprise/internal systems with focus on maintainability, structured frontend development, and production-ready implementation.
 
-**Focus:** Enterprise frontend, Angular, private systems
+`Angular` · `Enterprise frontend` · `Private systems`
 
 </td>
 </tr>
@@ -228,30 +192,11 @@ Contributions to enterprise or internal systems with focus on maintainability, s
 
 ---
 
-## 🔒 Private work vs public GitHub
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Professional experience
+## 🔒 Public GitHub context
 
 Most of my production experience comes from private repositories, client-owned codebases, internal systems, and mobile applications.
 
-That includes architecture decisions, UI implementation, API integrations, release preparation, native mobile integrations, and long-term maintenance.
-
-</td>
-<td width="50%" valign="top">
-
-### Public profile
-
-I use public GitHub mainly for selected experiments, open-source contributions, smaller projects, and technical exploration.
-
-The public repositories here represent only a small part of my overall development experience.
-
-</td>
-</tr>
-</table>
+This public profile is mainly used for selected experiments, open-source contributions, smaller projects, and technical exploration.
 
 ---
 
@@ -264,8 +209,6 @@ The public repositories here represent only a small part of my overall developme
 <br />
 <br />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielvagner&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages in public repositories" />
-
 </div>
 
 <p align="center">
@@ -274,47 +217,9 @@ The public repositories here represent only a small part of my overall developme
 
 ---
 
-## 🧩 Beyond code
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-<h2>🧠</h2>
-
-### Product thinking
-
-I like understanding why something is being built, not only how to implement it.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<h2>🛠️</h2>
-
-### Practical architecture
-
-I prefer architecture that helps delivery, improves readability, and keeps the project flexible.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<h2>🚀</h2>
-
-### Shipping mindset
-
-Good software should be clean enough to maintain and practical enough to release.
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
-### Thanks for visiting my profile 👋
-
-<br />
+### More details on my portfolio
 
 <a href="https://daniel-vagner.dev">
   <img src="https://img.shields.io/badge/View%20portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View portfolio" />
