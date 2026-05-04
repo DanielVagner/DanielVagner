@@ -67,7 +67,7 @@ I enjoy turning ideas into real products, improving application architecture, an
 
 ### Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=angular,ts,html,css,scss,ionic" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=angular,ts,html,css,scss,react" alt="Frontend stack" />
 
 <br />
 <br />
